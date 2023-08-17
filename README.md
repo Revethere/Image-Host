@@ -4,4 +4,6 @@
 
 采用 PicGo 上传图片 .
 
-主要用于个人博客 [rui-ethereal.github.io](https://rui-ethereal.github.io/) .
+为了方便博客的图片上传建的库 .
+
+博客链接 : [rui-ethereal.github.io](https://rui-ethereal.github.io/)
